@@ -11,7 +11,8 @@
         "useESModules": true,
         "regenerator": false
       }
-    ]
+    ],
+    "babel-plugin-react-require"
   ],
   "env": {
     "test": {
