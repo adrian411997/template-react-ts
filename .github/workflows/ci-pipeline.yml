@@ -35,5 +35,5 @@ jobs:
       - name: Run Tests
         run: npm run test
 
-      # 6. Construir el proyecto
-      - name:
+      - name: Build Project
+        run: npm run build
